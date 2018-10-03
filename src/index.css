@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+  background-color:rgb(5, 172, 5)
+}
+#root {
+  border: 3px solid green;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 5px black;
+  width: 500px;
+  height: 350px;
+  margin: auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(5, 172, 5);
+}
+#title {
+  color: white;
+}
+.Content {
+  background-color: white;
+  width: 500px;
+  height: 242px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  padding-top: 30px;
+}
+.countrySel {
+  height: 30px;
+  font-size: 14px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 8px;
+}
+.fas {
+  color: yellow;
+  height: 30px;
+  width: 30px;
+  
+}
+#value {
+  height: 24px;
+  width: 90px;
+  padding-left: 5px;
+  border-radius: 8px;
+  margin-right: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#total {
+  border-radius: 8px;
+  height: 24px;
+  margin-top: 40px;
+  padding-left: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
