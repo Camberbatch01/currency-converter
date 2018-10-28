@@ -2,6 +2,7 @@
   "name": "currency-converter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://camberbatch01.github.io/react-currency-converter",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
